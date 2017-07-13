@@ -1,0 +1,1 @@
+**18th January 2012:** This page (and URL) are now deprecated. The content relates to older versions of Mint, and has been moved to the [legacy documentation section](documentation-installguide-legacy-deploy-install-mint). If you are looking to install a current version of Mint, please [see this page](documentation-installguide-current-demo).

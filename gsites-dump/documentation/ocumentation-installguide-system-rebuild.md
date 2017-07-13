@@ -1,0 +1,1 @@
+This page is now deprecated. Please refer to the much more thorough page on [System Restore and Migration](documentation-system-administration-general-administration-system-restore-or-migration).

@@ -1,0 +1,1 @@
+This section of the documentation deals with legacy instructions for installing older versions of ReDBox and Mint. This documentation is no longer maintained, but feel free to ask questions on the mailing list if problems arise.

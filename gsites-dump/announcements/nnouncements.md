@@ -1,0 +1,1 @@
+This page will feature general announcements for the ReDBox projects. Please also refer to the [Discussion Group](discussion-group) page for our mailing list.
